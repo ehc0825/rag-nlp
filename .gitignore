@@ -1,0 +1,10 @@
+# 프로젝트 제외 경로
+# 모든 것을 제외
+/*
+
+# ! 필수 파일 포함
+!/.gitignore
+!/main.py
+!/README.md
+!/singleton.py
+!/test_main.http
